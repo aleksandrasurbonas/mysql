@@ -1,5 +1,5 @@
 -- title: DB - mySQL - praktika - mano db
--- v: 2021-03-27T1803 AU
+-- v: 2021-03-29T2054 AU
 
 
 
